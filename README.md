@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I am a sophisticated learner with measured goals.**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
