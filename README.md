@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **suhas.msr@gmail.com**
 
-- 📄 Know about my experiences [linkedIn](www.linkedin.com/in/msuhasrao)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/msuhasrao/)
 
 - ⚡ Fun fact **I am a sophisticated learner with measured goals.**
 
