@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suhas Rao Mogiligidda</h1>
-<h3 align="center">Im an undergraduate in Computer Science And Engineering, I'm Currently working as an Intern in the PwC Acceleration Center. I work on Full Stack Web Development Projects building various apps and websites, and practice programming</h3>
+<h3 align="center">Im an undergraduate in Computer Science And Engineering, I'm Currently working as Software Engineer. I work on Full Stack Web Development Projects building various apps and websites, and practice programming</h3>
 
 - 🌱 I’m currently learning **Full stack development**
 
