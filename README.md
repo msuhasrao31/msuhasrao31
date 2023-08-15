@@ -92,9 +92,6 @@ const suhas = {
 ### Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=msuhasrao31&color=blueviolet)
 
-### coding activity and time spent on projects.
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=msuhasrao31)](https://github.com/msuhasrao31)
-
 ### Quote
 ![GitHub Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)
 
