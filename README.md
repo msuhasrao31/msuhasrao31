@@ -76,6 +76,26 @@ const suhas = {
   currentFocus: "Exploring the realms of DevOps and Machine Learning, Full Stack Development"
 };
 ```
-## Embark on a Digital Odyssey 🚀
+## Embark on an Enchanted Journey with My Creations 🎨
 
-🌟 Let's traverse through lines of code, unveil the potential of tech, and create something that resonates with the digital cosmos. Connect with me, and let's build dreams together!
+🎨 Behold the masterpieces conjured from lines of code, each a testament to the digital alchemy within. Delve into the magical realms of my work:
+
+### GitHub Stats
+![Suhas Rao Mogiligidda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=msuhasrao31&show_icons=true&theme=dark)
+
+### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msuhasrao31&layout=compact&theme=dark)
+
+### GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=msuhasrao31&theme=dark)
+
+### GitHub Activity Graph
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=msuhasrao31&bg_color=22272E&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true)
+
+### Profile Views Counter
+![Profile Views](https://komarev.com/ghpvc/?username=msuhasrao31&color=blueviolet)
+
+## Unveiling the Blueprint of Creativity 🌌
+
+🌌 Join me in weaving tales of innovation, crafting digital realms, and exploring uncharted horizons of the digital cosmos. Together, we shall script the epics of tomorrow's technology. [Connect with me](https://www.linkedin.com/in/msuhasrao31/) and let the odyssey begin!
+
