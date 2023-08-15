@@ -65,7 +65,7 @@ const suhas = {
     },
     backEnd: {
       languages: ["Node.js"],
-      frameworks: ["Express.js", Springboot],
+      frameworks: ["Express.js", "Springboot"],
       databases: ["MongoDB", "MySQL"],
       misc: ["Firebase"]
     },
