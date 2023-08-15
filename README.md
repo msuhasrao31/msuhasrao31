@@ -89,13 +89,17 @@ const suhas = {
 ### GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=msuhasrao31&theme=dark)
 
-### GitHub Activity Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=msuhasrao31&bg_color=22272E&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true)
-
-### Profile Views Counter
+### Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=msuhasrao31&color=blueviolet)
+
+### coding activity and time spent on projects.
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=msuhasrao31)](https://github.com/msuhasrao31)
+
+### Quote
+![GitHub Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)
+
 
 ## Unveiling the Blueprint of Creativity 🌌
 
-🌌 Join me in weaving tales of innovation, crafting digital realms, and exploring uncharted horizons of the digital cosmos. Together, we shall script the epics of tomorrow's technology. [Connect with me](https://www.linkedin.com/in/msuhasrao31/) and let the odyssey begin!
+🌌 Join me in weaving tales of innovation, crafting digital realms, and exploring uncharted horizons of the digital cosmos. Together, we shall script the epics of tomorrow's technology. [Connect with me](https://www.linkedin.com/in/msuhasrao/) and let the odyssey begin!
 
