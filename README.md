@@ -75,7 +75,7 @@ const suhas = {
   },
   currentFocus: "Exploring the realms of DevOps and Machine Learning, Full Stack Development"
 };
-
+```
 ## Embark on a Digital Odyssey 🚀
 
 🌟 Let's traverse through lines of code, unveil the potential of tech, and create something that resonates with the digital cosmos. Connect with me, and let's build dreams together!
